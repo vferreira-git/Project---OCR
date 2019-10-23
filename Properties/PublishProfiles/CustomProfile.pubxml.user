@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAc3RtW7PtS0CTfOxmcj0nywAAAAACAAAAAAAQZgAAAAEAACAAAABxgo1tRZdfN3kOK8DqzlkyrSNeVX6HPZFsyL1hBeqYSAAAAAAOgAAAAAIAACAAAACVqQIzRNw+wEkaztrC/wS0FwjwVu0dhrlqWI8HOViY9SAAAAA49sVNurjUOC1h6iHOMxcMYJcqynY4hZJ5PAzljNGQOUAAAAA6yYoZriMNPoW7Dc1w/VUlrfvGaLMeaewkWTT9OfRVo+6RBeC2an4rKLvsin+Gpe29YLNSGePxT13Di3oborlf</EncryptedPassword>
+    <_PublishTargetUrl>ftp://kpktesting.somee.com/www.kpktesting.somee.com</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Ghostscript.NET.dll">
+      <publishTime>12/13/2016 15:31:26</publishTime>
+    </File>
+    <File Include="bin/itextsharp.dll">
+      <publishTime>01/22/2018 18:40:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe.config">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Managed.Core.targets">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Console.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.FileVersionInfo.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Compression.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Pipes.AccessControl.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Pipes.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.AccessControl.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Claims.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Algorithms.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Encoding.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Primitives.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.X509Certificates.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Principal.Windows.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Text.Encoding.CodePages.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.ValueTuple.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.ReaderWriter.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XmlDocument.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.XDocument.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/Tesseract.dll">
+      <publishTime>12/16/2018 08:56:28</publishTime>
+    </File>
+    <File Include="bin/WebApplication6.dll">
+      <publishTime>03/10/2019 12:07:46</publishTime>
+    </File>
+    <File Include="bin/WebApplication6.pdb">
+      <publishTime>03/10/2019 12:07:46</publishTime>
+    </File>
+    <File Include="bin/x64/liblept171.dll">
+      <publishTime>03/09/2019 18:50:11</publishTime>
+    </File>
+    <File Include="bin/x64/liblept1753.dll">
+      <publishTime>11/20/2018 19:38:06</publishTime>
+    </File>
+    <File Include="bin/x64/libtesseract304.dll">
+      <publishTime>03/09/2019 18:50:11</publishTime>
+    </File>
+    <File Include="bin/x64/libtesseract3052.dll">
+      <publishTime>11/20/2018 19:38:08</publishTime>
+    </File>
+    <File Include="bin/x86/liblept171.dll">
+      <publishTime>03/09/2019 18:50:11</publishTime>
+    </File>
+    <File Include="bin/x86/liblept1753.dll">
+      <publishTime>11/20/2018 19:38:08</publishTime>
+    </File>
+    <File Include="bin/x86/libtesseract304.dll">
+      <publishTime>03/09/2019 18:50:11</publishTime>
+    </File>
+    <File Include="bin/x86/libtesseract3052.dll">
+      <publishTime>11/20/2018 19:38:08</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>03/09/2019 17:51:16</publishTime>
+    </File>
+    <File Include="gsdll32.dll">
+      <publishTime>03/10/2019 11:45:24</publishTime>
+    </File>
+    <File Include="gsdll64.dll">
+      <publishTime>03/10/2019 11:36:30</publishTime>
+    </File>
+    <File Include="tessdata/eng.cube.bigrams">
+      <publishTime>03/09/2019 16:25:53</publishTime>
+    </File>
+    <File Include="tessdata/eng.cube.fold">
+      <publishTime>03/09/2019 16:25:53</publishTime>
+    </File>
+    <File Include="tessdata/eng.cube.lm">
+      <publishTime>03/09/2019 16:25:53</publishTime>
+    </File>
+    <File Include="tessdata/eng.cube.nn">
+      <publishTime>03/09/2019 16:25:53</publishTime>
+    </File>
+    <File Include="tessdata/eng.cube.params">
+      <publishTime>03/09/2019 16:25:53</publishTime>
+    </File>
+    <File Include="tessdata/eng.cube.size">
+      <publishTime>03/09/2019 16:25:53</publishTime>
+    </File>
+    <File Include="tessdata/eng.cube.word-freq">
+      <publishTime>03/09/2019 16:25:53</publishTime>
+    </File>
+    <File Include="tessdata/eng.tesseract_cube.nn">
+      <publishTime>03/09/2019 16:25:53</publishTime>
+    </File>
+    <File Include="tessdata/eng.traineddata">
+      <publishTime>03/09/2019 16:25:53</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/10/2019 12:07:49</publishTime>
+    </File>
+    <File Include="x64/liblept171.dll">
+      <publishTime>03/09/2019 18:50:11</publishTime>
+    </File>
+    <File Include="x64/libtesseract304.dll">
+      <publishTime>03/09/2019 18:50:11</publishTime>
+    </File>
+    <File Include="x86/liblept171.dll">
+      <publishTime>03/09/2019 18:50:11</publishTime>
+    </File>
+    <File Include="x86/libtesseract304.dll">
+      <publishTime>03/09/2019 18:50:11</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

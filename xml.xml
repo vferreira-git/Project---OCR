@@ -1,0 +1,1754 @@
+<Acords>
+  <ACORD>
+    <SignonRq>
+      <CustCredentials>
+        <ServiceProductID />
+        <CustUserID />
+        <CustPswd>
+          <EncryptionTypeCd />
+          <Password />
+        </CustPswd>
+        <ServiceProductID />
+      </CustCredentials>
+      <CustRequestData>
+        <IPAddress />
+        <SourceURL />
+      </CustRequestData>
+      <CustLangPref />
+      <ClientApp>
+        <Org />
+        <Name />
+        <Version />
+      </ClientApp>
+      <ResponseID>
+      </ResponseID>
+    </SignonRq>
+    <InsuranceSvcRq>
+      <RqUID />
+      <TransactionRequestDt />
+      <CurCd />
+      <Producer>
+        <ProducerName />
+        <ProducerCode />
+        <ProducerAddress>
+          <AgencyName>J. N. Kane Agency, Inc. 1925 Clove Road Staten Island, NY 10304 </AgencyName>
+          <AddressPart1 />
+          <AddressPart2 />
+          <City />
+          <StateCode />
+          <PostalCode />
+          <County />
+        </ProducerAddress>
+        <ProducerEmail />
+        <ProducerFax>718-448-9353</ProducerFax>
+        <ProducerPhone>718-448-9350</ProducerPhone>
+      </Producer>
+      <InsuredOrPrincipal>
+        <GeneralPartyInfo>
+          <BusinessType />
+          <BusinessDescription>One story mill josit building with light manufacturing and warehousing. </BusinessDescription>
+          <IndustryGroup />
+          <ClientID />
+          <NameInfo>
+            <PersonName>
+              <FirstName>Olivier Warehousing, Inc. </FirstName>
+              <LastName />
+            </PersonName>
+            <OrganizationName />
+            <DBAName />
+          </NameInfo>
+          <TaxIdentity>
+            <TaxIdTypeCd />
+            <TaxId />
+          </TaxIdentity>
+          <FullTimeEmployeeNo />
+          <PartTimeEmployeeNo />
+          <YearsInBusiness />
+          <YearsExperience />
+          <PhoneInfo>
+            <PrimaryPhone>845-534-4366</PrimaryPhone>
+            <ContactPhone />
+          </PhoneInfo>
+          <ContactInfo>
+            <InspectionContact>
+              <Name>Isaac Landau</Name>
+              <PhoneNo>845-534-4366</PhoneNo>
+              <Email />
+            </InspectionContact>
+            <AccountingRecordContact>
+              <Name>Isaac Landau</Name>
+              <PhoneNo>845-534-4366</PhoneNo>
+              <Email />
+            </AccountingRecordContact>
+            <ClaimsContact>
+              <Name />
+              <PhoneNo />
+            </ClaimsContact>
+          </ContactInfo>
+          <ClientAddress>
+            <AddressPart1 />
+            <AddressPart2 />
+            <City />
+            <StateCode />
+            <PostalCode />
+            <County />
+          </ClientAddress>
+          <MailAddress>
+            <AddressPart1>P. O. Box 322 Cornwall, NY 12518 </AddressPart1>
+            <AddressPart2 />
+            <City />
+            <StateCode />
+            <PostalCode />
+            <County />
+          </MailAddress>
+        </GeneralPartyInfo>
+      </InsuredOrPrincipal>
+      <PolicyInfo>
+        <CarrierName />
+        <QuoteID />
+        <YearsExperience />
+        <ExperienceMod />
+        <ExperienceModType />
+        <ContractTerm>
+          <EffectiveDate>02/27/2011</EffectiveDate>
+          <ExpirationDate>02/27/2012</ExpirationDate>
+          <States />
+        </ContractTerm>
+        <HireDate />
+        <AnniversaryDate />
+        <LiabilityLimit />
+      </PolicyInfo>
+      <EligibilityInfo />
+      <LossInfo>
+        <Year />
+        <CarrierNumber />
+        <PolicyNumber />
+        <AnnualPremium />
+        <Mod />
+        <Claims />
+        <AmountPaid />
+        <Reserve />
+      </LossInfo>
+      <LocationInfo>
+        <Location />
+        <LocationAddress />
+      </LocationInfo>
+      <Individuals>
+        <State />
+        <Location />
+        <Name />
+        <DOB />
+        <Title />
+        <OwnerShip />
+        <Duties />
+        <INCEXC />
+      </Individuals>
+      <ClassCodeInfo>
+        <ClassCodeDetails>
+          <ClassCode />
+          <ClassCodeDesc />
+          <RatingState />
+          <FullTimeEmployees />
+          <PartTimeEmployees />
+          <Payroll />
+        </ClassCodeDetails>
+      </ClassCodeInfo>
+      <CIA>
+        <Date>02/15/2011</Date>
+        <ProducerInfo>
+          <AgencySubCode />
+          <AgencyCustmerId>0934CORNW</AgencyCustmerId>
+          <Carrier />
+          <NAICCode />
+          <UnderWriter />
+          <UnderWriterOff />
+          <PolicyRequested />
+          <PolicyNumber />
+          <FeinOrSocSec />
+          <Accounts />
+          <Electronic />
+          <Truckers />
+          <BoilerMachinary />
+          <EquipmentFloater />
+          <Umbrella />
+          <GarageAndDealers />
+          <VehicleSchedule />
+          <BusinessAuto />
+          <GlassAndSign />
+          <WorkersCompensation />
+          <CommercialGeneralLiability />
+          <Installation />
+          <YACHT />
+          <Crime />
+          <OpenCargo />
+          <Dealers />
+          <Property>Y</Property>
+          <DriversInfo />
+          <Transportation />
+          <Other1 />
+          <Other1Text />
+          <Other2 />
+          <Other2Text />
+          <Other3 />
+          <Other3Text />
+        </ProducerInfo>
+        <StatusOnTransaction>
+          <Quote>Y</Quote>
+          <IssuePolicy />
+          <ReNew />
+          <Bound />
+          <Change />
+          <Cancel />
+          <Date />
+          <Time />
+          <TimeDevision />
+        </StatusOnTransaction>
+        <PolicyInfo>
+          <BillingPlan>AgencyBill</BillingPlan>
+          <PaymentPlan />
+          <Audit />
+          <PackagePolicyPrem />
+        </PolicyInfo>
+        <ClientInfo>
+          <Email />
+          <LegalEntity>Corporation</LegalEntity>
+          <NumOfMembers />
+          <Website />
+          <CRBureauName />
+          <BusinessStarted />
+          <AccountingEmail />
+        </ClientInfo>
+        <PremesisInfo>
+          <Acord183Attached />
+          <Premesis>
+            <Loc>1 </Loc>
+            <BLD>1 </BLD>
+            <AddressInfo>
+              <AddressPart1 />
+              <AddressPart2 />
+              <City />
+              <StateCode />
+              <PostalCode />
+            </AddressInfo>
+            <CityLimits>OutSide</CityLimits>
+            <Interest>Owner</Interest>
+            <YrBuilt>1970 </YrBuilt>
+            <Employees />
+            <AnnualRevenues />
+            <Occupied>100 </Occupied>
+          </Premesis>
+          <Premesis>
+            <Loc />
+            <BLD />
+            <AddressInfo>
+              <AddressPart1 />
+              <AddressPart2 />
+              <City />
+              <StateCode />
+              <PostalCode />
+            </AddressInfo>
+            <CityLimits />
+            <Interest />
+            <YrBuilt />
+            <Employees />
+            <AnnualRevenues />
+            <Occupied />
+          </Premesis>
+          <Premesis>
+            <Loc />
+            <BLD />
+            <AddressInfo>
+              <AddressPart1 />
+              <AddressPart2 />
+              <City />
+              <StateCode />
+              <PostalCode />
+            </AddressInfo>
+            <CityLimits />
+            <Interest />
+            <YrBuilt />
+            <Employees />
+            <AnnualRevenues />
+            <Occupied />
+          </Premesis>
+          <Premesis>
+            <Loc />
+            <BLD />
+            <AddressInfo>
+              <AddressPart1 />
+              <AddressPart2 />
+              <City />
+              <StateCode />
+              <PostalCode />
+            </AddressInfo>
+            <CityLimits />
+            <Interest />
+            <YrBuilt />
+            <Employees />
+            <AnnualRevenues />
+            <Occupied />
+          </Premesis>
+        </PremesisInfo>
+        <EligibilityInfo>
+          <QuestionAnswer>
+            <QuestionID>1a</QuestionID>
+            <QuestionText />
+            <AnswerText>N</AnswerText>
+            <RejectAnswer />
+            <Score />
+            <YesResponse />
+          </QuestionAnswer>
+          <QuestionAnswer>
+            <QuestionID>1b</QuestionID>
+            <QuestionText />
+            <AnswerText>N</AnswerText>
+            <RejectAnswer />
+            <Score />
+            <YesResponse />
+          </QuestionAnswer>
+          <QuestionAnswer>
+            <QuestionID>2</QuestionID>
+            <QuestionText />
+            <AnswerText>N</AnswerText>
+            <RejectAnswer />
+            <Score />
+            <YesResponse />
+          </QuestionAnswer>
+          <QuestionAnswer>
+            <QuestionID>3</QuestionID>
+            <QuestionText />
+            <AnswerText>N</AnswerText>
+            <RejectAnswer />
+            <Score />
+            <YesResponse />
+          </QuestionAnswer>
+          <QuestionAnswer>
+            <QuestionID>4</QuestionID>
+            <QuestionText />
+            <AnswerText>N</AnswerText>
+            <RejectAnswer />
+            <Score />
+            <YesResponse />
+          </QuestionAnswer>
+          <QuestionAnswer>
+            <QuestionID>5</QuestionID>
+            <QuestionText />
+            <AnswerText>N</AnswerText>
+            <RejectAnswer />
+            <Score />
+            <YesResponse />
+          </QuestionAnswer>
+          <QuestionAnswer>
+            <QuestionID>6</QuestionID>
+            <QuestionText />
+            <AnswerText>N</AnswerText>
+            <RejectAnswer />
+            <Score />
+            <YesResponse />
+          </QuestionAnswer>
+          <QuestionAnswer>
+            <QuestionID>7</QuestionID>
+            <QuestionText />
+            <AnswerText>N</AnswerText>
+            <RejectAnswer />
+            <Score />
+            <YesResponse />
+          </QuestionAnswer>
+          <QuestionAnswer>
+            <QuestionID>8</QuestionID>
+            <QuestionText />
+            <AnswerText>N</AnswerText>
+            <RejectAnswer />
+            <Score />
+            <YesResponse />
+          </QuestionAnswer>
+          <QuestionAnswer>
+            <QuestionID>9</QuestionID>
+            <QuestionText />
+            <AnswerText>N</AnswerText>
+            <RejectAnswer />
+            <Score />
+            <YesResponse />
+          </QuestionAnswer>
+          <QuestionAnswer>
+            <QuestionID>10</QuestionID>
+            <QuestionText />
+            <AnswerText>N</AnswerText>
+            <RejectAnswer />
+            <Score />
+            <YesResponse />
+          </QuestionAnswer>
+          <QuestionAnswer>
+            <QuestionID>11</QuestionID>
+            <QuestionText />
+            <AnswerText>N</AnswerText>
+            <RejectAnswer />
+            <Score />
+            <YesResponse />
+          </QuestionAnswer>
+          <QuestionAnswer>
+            <QuestionID>12</QuestionID>
+            <QuestionText />
+            <AnswerText />
+            <RejectAnswer />
+            <Score />
+            <YesResponse />
+          </QuestionAnswer>
+        </EligibilityInfo>
+        <RiskInfo>
+          <Remarks />
+          <CopyOfTheNotice>
+            <ProducerSign />
+            <ProducerName />
+            <ProducerNumber />
+            <ApplicantSign />
+            <BottomDate />
+          </CopyOfTheNotice>
+          <PriorCarrierInfo>
+            <Category1 />
+            <Category2 />
+            <Category3 />
+            <Category4 />
+            <Category5 />
+            <CGLCarrier1>CENTURY SURETY</CGLCarrier1>
+            <CGLCarrier2 />
+            <CGLCarrier3 />
+            <CGLCarrier4 />
+            <CGLCarrier5 />
+            <CGLPolicyNumber1>CCP540409</CGLPolicyNumber1>
+            <CGLPolicyNumber2 />
+            <CGLPolicyNumber3 />
+            <CGLPolicyNumber4 />
+            <CGLPolicyNumber5 />
+            <CGLPolicyType1>OCCURRENCE</CGLPolicyType1>
+            <CGLPolicyType2>OCCURRENCE</CGLPolicyType2>
+            <CGLPolicyType3>80</CGLPolicyType3>
+            <CGLPolicyType4>OCCURRENCE</CGLPolicyType4>
+            <CGLPolicyType5>OCCURRENCE</CGLPolicyType5>
+            <CGLRetroDate1 />
+            <CGLRetroDate2 />
+            <CGLRetroDate3 />
+            <CGLRetroDate4 />
+            <CGLRetroDate5 />
+            <CGLEffExpDate1>04/12/2006-2009 </CGLEffExpDate1>
+            <CGLEffExpDate2 />
+            <CGLEffExpDate3 />
+            <CGLEffExpDate4 />
+            <CGLEffExpDate5 />
+            <CGLGeneralAggregate1>2,000,000 </CGLGeneralAggregate1>
+            <CGLGeneralAggregate2 />
+            <CGLGeneralAggregate3 />
+            <CGLGeneralAggregate4 />
+            <CGLGeneralAggregate5 />
+            <CGLProductsComp1>1,000,000 </CGLProductsComp1>
+            <CGLProductsComp2 />
+            <CGLProductsComp3 />
+            <CGLProductsComp4 />
+            <CGLProductsComp5 />
+            <CGLPersonalInj1>1,000,000 </CGLPersonalInj1>
+            <CGLPersonalInj2 />
+            <CGLPersonalInj3 />
+            <CGLPersonalInj4 />
+            <CGLPersonalInj5 />
+            <CGLEachOccurrence1>1,000,000 </CGLEachOccurrence1>
+            <CGLEachOccurrence2 />
+            <CGLEachOccurrence3 />
+            <CGLEachOccurrence4 />
+            <CGLEachOccurrence5 />
+            <CGLFireDamage1>100,000 </CGLFireDamage1>
+            <CGLFireDamage2 />
+            <CGLFireDamage3 />
+            <CGLFireDamage4 />
+            <CGLFireDamage5 />
+            <CGLMedicalExpense1>5,000 </CGLMedicalExpense1>
+            <CGLMedicalExpense2 />
+            <CGLMedicalExpense3 />
+            <CGLMedicalExpense4 />
+            <CGLMedicalExpense5 />
+            <CGLBodilyInjuryOccurence1 />
+            <CGLBodilyInjuryOccurence2 />
+            <CGLBodilyInjuryOccurence3 />
+            <CGLBodilyInjuryOccurence4 />
+            <CGLBodilyInjuryOccurence5 />
+            <CGLBodilyInjuryAggregate1 />
+            <CGLBodilyInjuryAggregate2 />
+            <CGLBodilyInjuryAggregate3 />
+            <CGLBodilyInjuryAggregate4 />
+            <CGLBodilyInjuryAggregate5 />
+            <CGLPropertyDamageOccurence1 />
+            <CGLPropertyDamageOccurence2 />
+            <CGLPropertyDamageOccurence3 />
+            <CGLPropertyDamageOccurence4 />
+            <CGLPropertyDamageOccurence5 />
+            <CGLPropertyDamageAggregate1 />
+            <CGLPropertyDamageAggregate2 />
+            <CGLPropertyDamageAggregate3 />
+            <CGLPropertyDamageAggregate4 />
+            <CGLPropertyDamageAggregate5 />
+            <CGLCombinedSingleLimit1 />
+            <CGLCombinedSingleLimit2 />
+            <CGLCombinedSingleLimit3 />
+            <CGLCombinedSingleLimit4 />
+            <CGLCombinedSingleLimit5 />
+            <CGLModificationFactor1 />
+            <CGLModificationFactor2 />
+            <CGLModificationFactor3 />
+            <CGLModificationFactor4 />
+            <CGLModificationFactor5 />
+            <CGLTotalPrem1>14,500</CGLTotalPrem1>
+            <CGLTotalPrem2 />
+            <CGLTotalPrem3 />
+            <CGLTotalPrem4 />
+            <CGLTotalPrem5 />
+            <AMLCarrier1 />
+            <AMLCarrier2 />
+            <AMLCarrier3 />
+            <AMLCarrier4 />
+            <AMLCarrier5 />
+            <AMLPolicyNumber1 />
+            <AMLPolicyNumber2 />
+            <AMLPolicyNumber3 />
+            <AMLPolicyNumber4 />
+            <AMLPolicyNumber5 />
+            <AMLPolicyType1 />
+            <AMLPolicyType2 />
+            <AMLPolicyType3 />
+            <AMLPolicyType4 />
+            <AMLPolicyType5 />
+            <AMLEffExpDate1 />
+            <AMLEffExpDate2 />
+            <AMLEffExpDate3 />
+            <AMLEffExpDate4 />
+            <AMLEffExpDate5 />
+            <AMLCombinedSingleLimit1 />
+            <AMLCombinedSingleLimit2 />
+            <AMLCombinedSingleLimit3 />
+            <AMLCombinedSingleLimit4 />
+            <AMLCombinedSingleLimit5 />
+            <AMLBodilyInjuryEAPerson1 />
+            <AMLBodilyInjuryEAPerson2 />
+            <AMLBodilyInjuryEAPerson3 />
+            <AMLBodilyInjuryEAPerson4 />
+            <AMLBodilyInjuryEAPerson5 />
+            <AMLBodilyInjuryEAAccident1 />
+            <AMLBodilyInjuryEAAccident2 />
+            <AMLBodilyInjuryEAAccident3 />
+            <AMLBodilyInjuryEAAccident4 />
+            <AMLBodilyInjuryEAAccident5 />
+            <AMLPropertyDamage1 />
+            <AMLPropertyDamage2 />
+            <AMLPropertyDamage3 />
+            <AMLPropertyDamage4 />
+            <AMLPropertyDamage5 />
+            <AMLModificationFactor1 />
+            <AMLModificationFactor2 />
+            <AMLModificationFactor3 />
+            <AMLModificationFactor4 />
+            <AMLModificationFactor5 />
+            <AMLTotalPrem1 />
+            <AMLTotalPrem2 />
+            <AMLTotalPrem3 />
+            <AMLTotalPrem4 />
+            <AMLTotalPrem5 />
+            <PropertyCarrier1>Lloyds </PropertyCarrier1>
+            <PropertyCarrier2>Arch Specialty </PropertyCarrier2>
+            <PropertyCarrier3>Arch Specialty </PropertyCarrier3>
+            <PropertyCarrier4>NY Marine &amp; Gen </PropertyCarrier4>
+            <PropertyCarrier5>NY Marine &amp; Gen </PropertyCarrier5>
+            <PropertyPolicyNumber1>BO66408BA1818</PropertyPolicyNumber1>
+            <PropertyPolicyNumber2>ESP0013493-01</PropertyPolicyNumber2>
+            <PropertyPolicyNumber3>ESP0013493-00</PropertyPolicyNumber3>
+            <PropertyPolicyNumber4>29910IM305</PropertyPolicyNumber4>
+            <PropertyPolicyNumber5>29910IM304</PropertyPolicyNumber5>
+            <PropertyPolicyType1>Fire</PropertyPolicyType1>
+            <PropertyPolicyType2 />
+            <PropertyPolicyType3 />
+            <PropertyPolicyType4 />
+            <PropertyPolicyType5 />
+            <PropertyEffExpDate1>2008-2010 </PropertyEffExpDate1>
+            <PropertyEffExpDate2>2007 </PropertyEffExpDate2>
+            <PropertyEffExpDate3>2006 </PropertyEffExpDate3>
+            <PropertyEffExpDate4>2005 </PropertyEffExpDate4>
+            <PropertyEffExpDate5>2004 </PropertyEffExpDate5>
+            <PropertyBuildingOrPersonelProperty>Building</PropertyBuildingOrPersonelProperty>
+            <PropertyBuilding1AMT1>5,000,000 </PropertyBuilding1AMT1>
+            <PropertyBuilding1AMT2>5,000,000 </PropertyBuilding1AMT2>
+            <PropertyBuilding1AMT3>7,500,000 </PropertyBuilding1AMT3>
+            <PropertyBuilding1AMT4>7,500,000 </PropertyBuilding1AMT4>
+            <PropertyBuilding1AMT5>7,500,000 </PropertyBuilding1AMT5>
+            <PropertyBuilding2AMT1 />
+            <PropertyBuilding2AMT2 />
+            <PropertyBuilding2AMT3 />
+            <PropertyBuilding2AMT4 />
+            <PropertyBuilding2AMT5 />
+            <PropertyModificationFactor1 />
+            <PropertyModificationFactor2 />
+            <PropertyModificationFactor3 />
+            <PropertyModificationFactor4 />
+            <PropertyModificationFactor5 />
+            <PropertyTotalPrem1>23456</PropertyTotalPrem1>
+            <PropertyTotalPrem2>40000</PropertyTotalPrem2>
+            <PropertyTotalPrem3>40000</PropertyTotalPrem3>
+            <PropertyTotalPrem4>21652</PropertyTotalPrem4>
+            <PropertyTotalPrem5>25740</PropertyTotalPrem5>
+            <OtherCarrier1 />
+            <OtherCarrier2 />
+            <OtherCarrier3 />
+            <OtherCarrier4 />
+            <OtherCarrier5 />
+            <OtherPolicyNumber1 />
+            <OtherPolicyNumber2 />
+            <OtherPolicyNumber3 />
+            <OtherPolicyNumber4 />
+            <OtherPolicyNumber5 />
+            <OtherPolicyType1 />
+            <OtherPolicyType2 />
+            <OtherPolicyType3 />
+            <OtherPolicyType4 />
+            <OtherPolicyType5 />
+            <OtherEffExpDate1 />
+            <OtherEffExpDate2 />
+            <OtherEffExpDate3 />
+            <OtherEffExpDate4 />
+            <OtherEffExpDate5 />
+            <OtherLimit1 />
+            <OtherLimit2 />
+            <OtherLimit3 />
+            <OtherLimit4 />
+            <OtherLimit5 />
+            <OtherModificationFactor1 />
+            <OtherModificationFactor2 />
+            <OtherModificationFactor3 />
+            <OtherModificationFactor4 />
+            <OtherModificationFactor5 />
+            <OtherTotalPrem1 />
+            <OtherTotalPrem2 />
+            <OtherTotalPrem3 />
+            <OtherTotalPrem4 />
+            <OtherTotalPrem5 />
+          </PriorCarrierInfo>
+          <LossInfo>
+            <CheckHereIfNone />
+            <AttachedLossSum />
+            <LossHistory1>
+              <DateOfOccurence1 />
+              <LossLine1 />
+              <LossDesc1 />
+              <DateOfClaim1 />
+              <AmountPaid1 />
+              <ReservedAmount1 />
+              <ClaimStatus1 />
+            </LossHistory1>
+            <LossHistory2>
+              <DateOfOccurence2 />
+              <LossLine2 />
+              <LossDesc2 />
+              <DateOfClaim2 />
+              <AmountPaid2 />
+              <ReservedAmount2 />
+              <ClaimStatus2 />
+            </LossHistory2>
+            <LossHistory3>
+              <DateOfOccurence3 />
+              <LossLine3 />
+              <LossDesc3 />
+              <DateOfClaim3 />
+              <AmountPaid3 />
+              <ReservedAmount3 />
+              <ClaimStatus3 />
+            </LossHistory3>
+            <LossHistory4>
+              <DateOfOccurence4 />
+              <LossLine4 />
+              <LossDesc4 />
+              <DateOfClaim4 />
+              <AmountPaid4 />
+              <ReservedAmount4 />
+              <ClaimStatus4 />
+            </LossHistory4>
+            <Remarks>
+              <Remarks />
+              <AttachmentsSuppliment />
+              <EmptyAttachmentsSuppliment />
+            </Remarks>
+          </LossInfo>
+        </RiskInfo>
+      </CIA>
+    </InsuranceSvcRq>
+  </ACORD>
+  <ACORD>
+    <SignonRq>
+      <CustCredentials>
+        <ServiceProductID />
+        <CustUserID />
+        <CustPswd>
+          <EncryptionTypeCd />
+          <Password />
+        </CustPswd>
+        <ServiceProductID />
+      </CustCredentials>
+      <CustRequestData>
+        <IPAddress />
+        <SourceURL />
+      </CustRequestData>
+      <CustLangPref />
+      <ClientApp>
+        <Org />
+        <Name />
+        <Version />
+      </ClientApp>
+      <ResponseID>
+      </ResponseID>
+    </SignonRq>
+    <InsuranceSvcRq>
+      <RqUID />
+      <TransactionRequestDt />
+      <CurCd />
+      <Producer>
+        <ProducerName />
+        <ProducerCode />
+        <ProducerAddress>
+          <AgencyName>J. N. Kane Agency, Inc.</AgencyName>
+          <AddressPart1>1925 Clove Road</AddressPart1>
+          <AddressPart2 />
+          <City>Staten Island,</City>
+          <StateCode>NY</StateCode>
+          <PostalCode>10304</PostalCode>
+          <County />
+        </ProducerAddress>
+        <ProducerEmail />
+        <ProducerPhone>718-448-9350</ProducerPhone>
+        <ProducerSubCode />
+        <AgencyCustomerId>0934CORNW</AgencyCustomerId>
+      </Producer>
+      <InsuredOrPrincipal>
+        <GeneralPartyInfo>
+          <BusinessType />
+          <BusinessDescription />
+          <IndustryGroup />
+          <ClientID />
+          <NameInfo>
+            <PersonName>
+              <FirstName>Olivier Warehousing, Inc. </FirstName>
+              <LastName />
+            </PersonName>
+            <OraganizationName />
+            <DBAName />
+          </NameInfo>
+          <TaxIdentity>
+            <TaxIdTypeCd />
+            <TaxId />
+          </TaxIdentity>
+          <FullTimeEmployeeNo />
+          <PartTimeEmployeeNo />
+          <YearsInBusiness />
+          <YearsExperience />
+          <PhoneInfo>
+            <PrimaryPhone />
+            <ContactPhone />
+          </PhoneInfo>
+          <ContactInfo>
+            <InspectionContact>
+              <Name />
+              <PhoneNo />
+              <MobilePhone />
+              <Email />
+            </InspectionContact>
+            <AccountingRecordContact>
+              <Name />
+              <PhoneNo />
+              <MobilePhone />
+              <Email />
+            </AccountingRecordContact>
+            <ClaimsContact>
+              <Name />
+              <PhoneNo />
+              <MobilePhone />
+              <Email />
+            </ClaimsContact>
+          </ContactInfo>
+          <ClientAddress>
+            <AddressPart1 />
+            <AddressPart2 />
+            <City />
+            <StateCode />
+            <PostalCode />
+            <County />
+          </ClientAddress>
+          <MailAddress>
+            <AddressPart1 />
+            <AddressPart2 />
+            <City />
+            <StateCode />
+            <PostalCode />
+            <County />
+          </MailAddress>
+        </GeneralPartyInfo>
+      </InsuredOrPrincipal>
+      <PolicyInfo>
+        <CarrierName />
+        <QuoteID />
+        <YearsExperience />
+        <ExperienceMod />
+        <ExperienceModType />
+        <ContractTerm>
+          <EffectiveDate>02/27/2011</EffectiveDate>
+          <ExpirationDate>02/27/2012</ExpirationDate>
+          <States />
+        </ContractTerm>
+        <HireDate />
+        <AnniversaryDate />
+        <LiabilityLimit />
+      </PolicyInfo>
+      <EligibilityInfo />
+      <LossInfo />
+      <LocationInfo />
+      <Individuals />
+      <ClassCodeInfo />
+      <CGL>
+        <PolicyInfo>
+          <BillingInfo>
+            <BillingPlan>AgencyBill</BillingPlan>
+            <PaymentPlan />
+            <AuditPlan />
+            <Code />
+            <SubCode />
+          </BillingInfo>
+        </PolicyInfo>
+        <ForCompanyUse />
+        <CoveragesInfo>
+          <CommercialGeneralLiability>Y</CommercialGeneralLiability>
+          <ClaimsMade />
+          <Occurance>Y</Occurance>
+          <Owners />
+          <OwnerAndContractors />
+          <None />
+          <PropertyDamage />
+          <PropertyDamageAmount />
+          <BodyInjury />
+          <BodyInjuryAmount />
+          <Other />
+          <OtherAmount />
+          <LiabilityLimit />
+          <PerClaimOrOccurance />
+          <LiabilityLimit />
+          <GeneralAggregate>2,000,000</GeneralAggregate>
+          <ProductsAvg>1,000,000</ProductsAvg>
+          <AdvertisingInjury>1,000,000</AdvertisingInjury>
+          <EachOccurrence>1,000,000</EachOccurrence>
+          <DamageRentedPremises>100,000</DamageRentedPremises>
+          <MedicalExpense>5,000</MedicalExpense>
+          <EmployeeBenefits />
+          <OtherLimit />
+          <OtherLimitAmount />
+          <OtherCoverages />
+          <Premises />
+          <Products />
+          <Others />
+          <Total>0.00</Total>
+        </CoveragesInfo>
+        <Hazards>
+          <HazardsDetails>
+            <Loc>1 </Loc>
+            <Classification>warehouse lro </Classification>
+            <ClassCode>68702 </ClassCode>
+            <PremiumBasis>area </PremiumBasis>
+            <Exposure>250000 </Exposure>
+            <Terr />
+            <RatePrem>PREM/OPS </RatePrem>
+            <RateProducts>PRODUCTS </RateProducts>
+            <PremiumPrem>PREM/OPS </PremiumPrem>
+            <PremiumProducts>PRODUCTS </PremiumProducts>
+          </HazardsDetails>
+          <HazardsDetails>
+            <Loc />
+            <Classification />
+            <ClassCode />
+            <PremiumBasis />
+            <Exposure />
+            <Terr />
+            <RatePrem />
+            <RateProducts />
+            <PremiumPrem />
+            <PremiumProducts />
+          </HazardsDetails>
+          <HazardsDetails>
+            <Loc />
+            <Classification />
+            <ClassCode />
+            <PremiumBasis />
+            <Exposure />
+            <Terr />
+            <RatePrem />
+            <RateProducts />
+            <PremiumPrem />
+            <PremiumProducts />
+          </HazardsDetails>
+          <HazardsDetails>
+            <Loc />
+            <Classification />
+            <ClassCode />
+            <PremiumBasis />
+            <Exposure />
+            <Terr />
+            <RatePrem />
+            <RateProducts />
+            <PremiumPrem />
+            <PremiumProducts />
+          </HazardsDetails>
+          <HazardsDetails>
+            <Loc />
+            <Classification />
+            <ClassCode />
+            <PremiumBasis />
+            <Exposure />
+            <Terr />
+            <RatePrem />
+            <RateProducts />
+            <PremiumPrem />
+            <PremiumProducts />
+          </HazardsDetails>
+          <HazardsDetails>
+            <Loc />
+            <Classification />
+            <ClassCode />
+            <PremiumBasis />
+            <Exposure />
+            <Terr />
+            <RatePrem />
+            <RateProducts />
+            <PremiumPrem />
+            <PremiumProducts />
+          </HazardsDetails>
+          <HazardsDetails>
+            <Loc />
+            <Classification />
+            <ClassCode />
+            <PremiumBasis />
+            <Exposure />
+            <Terr />
+            <RatePrem />
+            <RateProducts />
+            <PremiumPrem />
+            <PremiumProducts />
+          </HazardsDetails>
+          <HazardsDetails>
+            <Loc />
+            <Classification />
+            <ClassCode />
+            <PremiumBasis />
+            <Exposure />
+            <Terr />
+            <RatePrem />
+            <RateProducts />
+            <PremiumPrem />
+            <PremiumProducts />
+          </HazardsDetails>
+          <HazardsDetails>
+            <Loc />
+            <Classification />
+            <ClassCode />
+            <PremiumBasis />
+            <Exposure />
+            <Terr />
+            <RatePrem />
+            <RateProducts />
+            <PremiumPrem />
+            <PremiumProducts />
+          </HazardsDetails>
+        </Hazards>
+        <ClaimsMade>
+          <ProposedRetroactiveDate />
+          <EntryDate />
+          <QuestionAnswer>
+            <QuestionID>3</QuestionID>
+            <QuestionText />
+            <AnswerText3 />
+            <RejectAnswer />
+            <Score />
+          </QuestionAnswer>
+          <QuestionAnswer>
+            <QuestionID>4</QuestionID>
+            <QuestionText />
+            <AnswerText4 />
+            <RejectAnswer />
+            <Score />
+          </QuestionAnswer>
+        </ClaimsMade>
+        <EmpolyeeBenfitsSection>
+          <DeductiblePerClaim />
+          <NumberOfEmpLoyees />
+          <NumberOfEmpBenefitsPlan />
+          <RetroactiveDate />
+          <EmptyEmpolyeeBenfitsSection />
+          <Remarks1OfBenfitsSection />
+          <Remarks2OfBenfitsSection />
+        </EmpolyeeBenfitsSection>
+        <Contractors>
+          <QuestionAnswer>
+            <QuestionID>1</QuestionID>
+            <QuestionText />
+            <AnswerText1 />
+            <RejectAnswer />
+            <Score />
+          </QuestionAnswer>
+          <QuestionAnswer>
+            <QuestionID>2</QuestionID>
+            <QuestionText />
+            <AnswerText2 />
+            <RejectAnswer />
+            <Score />
+          </QuestionAnswer>
+          <QuestionAnswer>
+            <QuestionID>3</QuestionID>
+            <QuestionText />
+            <AnswerText3 />
+            <RejectAnswer />
+            <Score />
+          </QuestionAnswer>
+          <QuestionAnswer>
+            <QuestionID>4</QuestionID>
+            <QuestionText />
+            <AnswerText4 />
+            <RejectAnswer />
+            <Score />
+          </QuestionAnswer>
+          <QuestionAnswer>
+            <QuestionID>5</QuestionID>
+            <QuestionText />
+            <AnswerText5 />
+            <RejectAnswer5 />
+            <Score />
+          </QuestionAnswer>
+          <QuestionAnswer>
+            <QuestionID>6</QuestionID>
+            <QuestionText />
+            <AnswerText6 />
+            <RejectAnswer />
+            <Score />
+          </QuestionAnswer>
+          <RemarksDescribeTypeOfWork>REMARKS/DESCRIBE THE TYPE OF WORK SUBCONTRACTED $ PAID TO SUB- % OF WORK # FULL- # PART- CONTRACTORS: SUBCONTRACTED: TIME STAFF: TIME STAFF: </RemarksDescribeTypeOfWork>
+          <PaidContractors />
+          <PerOfWorkSubContract />
+          <FullTimeStaff />
+          <PartTimeStaff />
+        </Contractors>
+        <ProductsCompletedOperations>
+          <ProductOperations>
+            <Products1 />
+            <AnnualGrossSales1 />
+            <OfUnits1 />
+            <TimeInMarket1 />
+            <ExpectedLife1 />
+            <IntendedUse1 />
+            <PrincipleComponents1 />
+          </ProductOperations>
+          <ProductOperations>
+            <Products2 />
+            <AnnualGrossSales2 />
+            <OfUnits2 />
+            <TimeInMarket2 />
+            <ExpectedLife2 />
+            <IntendedUse2 />
+            <PrincipleComponents2 />
+          </ProductOperations>
+          <ProductOperations>
+            <Products3 />
+            <AnnualGrossSales3 />
+            <OfUnits3 />
+            <TimeInMarket3 />
+            <ExpectedLife3 />
+            <IntendedUse3 />
+            <PrincipleComponents3 />
+          </ProductOperations>
+        </ProductsCompletedOperations>
+        <Products>
+          <QuestionAnswer>
+            <QuestionID>1</QuestionID>
+            <QuestionText />
+            <AnswerText1 />
+            <RejectAnswer />
+            <Score />
+          </QuestionAnswer>
+          <QuestionAnswer>
+            <QuestionID>2</QuestionID>
+            <QuestionText />
+            <AnswerText2 />
+            <RejectAnswer />
+            <Score />
+          </QuestionAnswer>
+          <QuestionAnswer>
+            <QuestionID>3</QuestionID>
+            <QuestionText />
+            <AnswerText3 />
+            <RejectAnswer />
+            <Score />
+          </QuestionAnswer>
+          <QuestionAnswer>
+            <QuestionID>4</QuestionID>
+            <QuestionText />
+            <AnswerText4 />
+            <RejectAnswer />
+            <Score />
+          </QuestionAnswer>
+          <QuestionAnswer>
+            <QuestionID>5</QuestionID>
+            <QuestionText />
+            <AnswerText5 />
+            <RejectAnswer />
+            <Score />
+          </QuestionAnswer>
+          <QuestionAnswer>
+            <QuestionID>6</QuestionID>
+            <QuestionText />
+            <AnswerText6 />
+            <RejectAnswer />
+            <Score />
+          </QuestionAnswer>
+          <QuestionAnswer>
+            <QuestionID>7</QuestionID>
+            <QuestionText />
+            <AnswerText7 />
+            <RejectAnswer />
+            <Score />
+          </QuestionAnswer>
+          <QuestionAnswer>
+            <QuestionID>8</QuestionID>
+            <QuestionText />
+            <AnswerText8 />
+            <RejectAnswer />
+            <Score />
+          </QuestionAnswer>
+          <QuestionAnswer>
+            <QuestionID>9</QuestionID>
+            <QuestionText />
+            <AnswerText9 />
+            <RejectAnswer />
+            <Score />
+          </QuestionAnswer>
+          <QuestionAnswer>
+            <QuestionID>10</QuestionID>
+            <QuestionText />
+            <AnswerText10 />
+            <RejectAnswer />
+            <Score />
+          </QuestionAnswer>
+          <AttachLiteratureBrochuresEtc />
+        </Products>
+        <AdditionalInterest>
+          <AdditionalInsured />
+          <LossPayee />
+          <MortGagee>Mortgage</MortGagee>
+          <LienHolder />
+          <EmployeeAsLessor />
+          <None />
+          <Acord45AttchedNames />
+          <CertificateRequired />
+          <Rank />
+          <InterestReference />
+          <InterestLocation>1</InterestLocation>
+          <InterestBuilding>1</InterestBuilding>
+          <InterestVehicle>1</InterestVehicle>
+          <InterestBoat>1</InterestBoat>
+          <ScheduledItemNumber />
+          <InterestOther />
+          <ItemDescription />
+          <AddressInfo>
+            <Name>Bank Of America </Name>
+            <AddressPart1>129 S Parsons Ave </AddressPart1>
+            <AddressPart2 />
+            <City>Brandon,</City>
+            <StateCode>FL</StateCode>
+            <PostalCode>33510</PostalCode>
+          </AddressInfo>
+        </AdditionalInterest>
+        <GeneralInfo>
+          <QuestionAnswer>
+            <QuestionID>1</QuestionID>
+            <QuestionText />
+            <AnswerText>N</AnswerText>
+            <RejectAnswer />
+            <Score />
+          </QuestionAnswer>
+          <QuestionAnswer>
+            <QuestionID>2</QuestionID>
+            <QuestionText />
+            <AnswerText>N</AnswerText>
+            <RejectAnswer />
+            <Score />
+          </QuestionAnswer>
+          <QuestionAnswer>
+            <QuestionID>3</QuestionID>
+            <QuestionText />
+            <AnswerText>N</AnswerText>
+            <RejectAnswer />
+            <Score />
+          </QuestionAnswer>
+          <QuestionAnswer>
+            <QuestionID>4</QuestionID>
+            <QuestionText />
+            <AnswerText>N</AnswerText>
+            <RejectAnswer />
+            <Score />
+          </QuestionAnswer>
+          <QuestionAnswer>
+            <QuestionID>5</QuestionID>
+            <QuestionText />
+            <AnswerText>N</AnswerText>
+            <RejectAnswer />
+            <Score />
+          </QuestionAnswer>
+          <QuestionAnswer>
+            <QuestionID>6</QuestionID>
+            <QuestionText />
+            <AnswerText>N</AnswerText>
+            <RejectAnswer />
+            <Score />
+          </QuestionAnswer>
+          <QuestionAnswer>
+            <QuestionID>7</QuestionID>
+            <QuestionText />
+            <AnswerText>N</AnswerText>
+            <RejectAnswer />
+            <Score />
+          </QuestionAnswer>
+          <QuestionAnswer>
+            <QuestionID>8</QuestionID>
+            <QuestionText />
+            <AnswerText>N</AnswerText>
+            <RejectAnswer />
+            <Score />
+          </QuestionAnswer>
+          <QuestionAnswer>
+            <QuestionID>9</QuestionID>
+            <QuestionText />
+            <AnswerText>N</AnswerText>
+            <RejectAnswer />
+            <Score />
+          </QuestionAnswer>
+          <QuestionAnswer>
+            <QuestionID>10</QuestionID>
+            <QuestionText />
+            <AnswerText>N</AnswerText>
+            <RejectAnswer />
+            <Score />
+          </QuestionAnswer>
+          <QuestionAnswer>
+            <QuestionID>11</QuestionID>
+            <QuestionText />
+            <AnswerText>N</AnswerText>
+            <RejectAnswer />
+            <Score />
+          </QuestionAnswer>
+          <QuestionAnswer>
+            <QuestionID>12</QuestionID>
+            <QuestionText />
+            <AnswerText>N</AnswerText>
+            <RejectAnswer />
+            <Score />
+          </QuestionAnswer>
+          <QuestionAnswer>
+            <QuestionID>13</QuestionID>
+            <QuestionText />
+            <AnswerText>N</AnswerText>
+            <RejectAnswer />
+            <Score />
+          </QuestionAnswer>
+          <QuestionAnswer>
+            <QuestionID>14</QuestionID>
+            <QuestionText />
+            <AnswerText>N</AnswerText>
+            <RejectAnswer />
+            <Score />
+          </QuestionAnswer>
+          <QuestionAnswer>
+            <QuestionID>15</QuestionID>
+            <QuestionText />
+            <AnswerText>N</AnswerText>
+            <RejectAnswer />
+            <Score />
+          </QuestionAnswer>
+          <QuestionAnswer>
+            <QuestionID>16</QuestionID>
+            <QuestionText />
+            <AnswerText>N</AnswerText>
+            <RejectAnswer />
+            <Score />
+          </QuestionAnswer>
+          <QuestionAnswer>
+            <QuestionID>17</QuestionID>
+            <QuestionText />
+            <AnswerText>N</AnswerText>
+            <RejectAnswer />
+            <Score />
+          </QuestionAnswer>
+          <QuestionAnswer>
+            <QuestionID>18</QuestionID>
+            <QuestionText />
+            <AnswerText>N</AnswerText>
+            <RejectAnswer />
+            <Score />
+          </QuestionAnswer>
+          <QuestionAnswer>
+            <QuestionID>19</QuestionID>
+            <QuestionText />
+            <AnswerText>N</AnswerText>
+            <RejectAnswer />
+            <Score />
+          </QuestionAnswer>
+          <QuestionAnswer>
+            <QuestionID>20</QuestionID>
+            <QuestionText />
+            <AnswerText>N</AnswerText>
+            <RejectAnswer />
+            <Score />
+          </QuestionAnswer>
+          <Remarks>
+          </Remarks>
+        </GeneralInfo>
+        <Date>02/15/2011</Date>
+        <Remarks />
+      </CGL>
+    </InsuranceSvcRq>
+  </ACORD>
+  <ACORD>
+    <SignonRq>
+      <CustCredentials>
+        <ServiceProductID />
+        <CustUserID />
+        <CustPswd>
+          <EncryptionTypeCd />
+          <Password />
+        </CustPswd>
+        <ServiceProductID />
+      </CustCredentials>
+      <CustRequestData>
+        <IPAddress />
+        <SourceURL />
+      </CustRequestData>
+      <CustLangPref />
+      <ClientApp>
+        <Org />
+        <Name />
+        <Version />
+      </ClientApp>
+      <ResponseID>
+      </ResponseID>
+    </SignonRq>
+    <InsuranceSvcRq>
+      <RqUID />
+      <TransactionRequestDt />
+      <CurCd />
+      <Producer>
+        <ProducerName />
+        <ProducerCode />
+        <AgencyFax>718-448-9353</AgencyFax>
+        <ProducerAddress>
+          <AgencyName>J. N. Kane Agency, Inc. </AgencyName>
+          <AddressPart1>1925 Clove Road </AddressPart1>
+          <AddressPart2 />
+          <City>Staten Island,</City>
+          <StateCode>NY</StateCode>
+          <PostalCode>10304</PostalCode>
+          <County />
+        </ProducerAddress>
+        <ProducerEmail />
+        <AgencyPhone>718-448-9350</AgencyPhone>
+        <ProducerSubCode />
+        <AgencyCustmerId>0934CORNW</AgencyCustmerId>
+      </Producer>
+      <InsuredOrPrincipal>
+        <GeneralPartyInfo>
+          <BusinessType />
+          <BussinessDescription />
+          <IndustryGroup />
+          <ClientID />
+          <NameInfo>
+            <PersonName>
+              <FirstName>Olivier Warehousing, Inc. </FirstName>
+              <LastName />
+            </PersonName>
+            <OraganizationName />
+            <DBAName />
+          </NameInfo>
+          <TaxIdentity>
+            <TaxIdTypeCd />
+            <TaxId />
+          </TaxIdentity>
+          <FullTimeEmployeeNo />
+          <PartTimeEmployeeNo />
+          <YearsInBusiness />
+          <YearsExperience />
+          <PhoneInfo>
+            <PrimaryPhone />
+            <ContactPhone />
+          </PhoneInfo>
+          <ContactInfo>
+            <InspectionContact>
+              <Name />
+              <PhoneNo />
+              <MobilePhone />
+              <Email />
+            </InspectionContact>
+            <AccountingRecordContact>
+              <Name />
+              <PhoneNo />
+              <MobilePhone />
+              <Email />
+            </AccountingRecordContact>
+            <ClaimsContact>
+              <Name />
+              <PhoneNo />
+              <MobilePhone />
+              <Email />
+            </ClaimsContact>
+          </ContactInfo>
+          <ClientAddress>
+            <AddressPart1 />
+            <AddressPart2 />
+            <City />
+            <StateCode />
+            <PostalCode />
+            <County />
+          </ClientAddress>
+          <MailAddress>
+            <AddressPart1 />
+            <AddressPart2 />
+            <City />
+            <StateCode />
+            <PostalCode />
+            <County />
+          </MailAddress>
+        </GeneralPartyInfo>
+      </InsuredOrPrincipal>
+      <PolicyInfo>
+        <CarrierName />
+        <QuoteID />
+        <YearsExperience />
+        <ExperienceMod />
+        <ExperienceModType />
+        <ContractTerm>
+          <EffectiveDate>02/27/2011</EffectiveDate>
+          <ExpirationDate>02/27/2012</ExpirationDate>
+          <States />
+        </ContractTerm>
+        <HireDate />
+        <AnniversaryDate />
+        <LiabilityLimit />
+      </PolicyInfo>
+      <EligibilityInfo />
+      <LossInfo />
+      <LocationInfo />
+      <Individuals />
+      <ClassCodeInfo />
+      <PS>
+        <Date>02/15/2011</Date>
+        <ApplicantInfo>
+          <BillingPlan>Agency Bill.</BillingPlan>
+          <PaymentPlan />
+          <Audit />
+          <ForOfficeUse />
+        </ApplicantInfo>
+        <PremisesInformation>
+          <Premises>1</Premises>
+          <PremisesAddress>
+            <AddressPart1>2 Mill Street</AddressPart1>
+            <City> Cornwall</City>
+            <StateCode>NY</StateCode>
+            <PostalCode>12518</PostalCode>
+            <County />
+          </PremisesAddress>
+          <Building>1</Building>
+          <BuildingDesc>Mill Joist building</BuildingDesc>
+          <PremisesInfo>
+            <Subject>Building </Subject>
+            <Amount>$5,000,000</Amount>
+            <Coins>100</Coins>
+            <Valuation>RC</Valuation>
+            <CausesOfLoss>Special </CausesOfLoss>
+            <InflationGuard />
+            <Ded>5000 </Ded>
+            <BLKT />
+            <ConditionsApply />
+          </PremisesInfo>
+          <PremisesInfo>
+            <Subject>Business Income </Subject>
+            <Amount>$500,000 </Amount>
+            <Coins>90 </Coins>
+            <Valuation>ACV </Valuation>
+            <CausesOfLoss>Special </CausesOfLoss>
+            <InflationGuard />
+            <Ded>1000 </Ded>
+            <BLKT />
+            <ConditionsApply />
+          </PremisesInfo>
+          <PremisesInfo>
+            <Subject>Business Contents </Subject>
+            <Amount>$480,000 </Amount>
+            <Coins>80 </Coins>
+            <Valuation>RC </Valuation>
+            <CausesOfLoss>Special </CausesOfLoss>
+            <InflationGuard />
+            <Ded>2000 </Ded>
+            <BLKT />
+            <ConditionsApply />
+          </PremisesInfo>
+          <PremisesInfo>
+            <Subject />
+            <Amount />
+            <Coins />
+            <Valuation />
+            <CausesOfLoss />
+            <InflationGuard />
+            <Ded />
+            <BLKT />
+            <ConditionsApply />
+          </PremisesInfo>
+          <PremisesInfo>
+            <Subject />
+            <Amount />
+            <Coins />
+            <Valuation />
+            <CausesOfLoss />
+            <InflationGuard />
+            <Ded />
+            <BLKT />
+            <ConditionsApply />
+          </PremisesInfo>
+          <PremisesInfo>
+            <Subject />
+            <Amount />
+            <Coins />
+            <Valuation />
+            <CausesOfLoss />
+            <InflationGuard />
+            <Ded />
+            <BLKT />
+            <ConditionsApply />
+          </PremisesInfo>
+          <BusinessExpense />
+          <ValueInformation />
+          <AdditionalCoverages>
+            <SpoilageCoverage />
+            <DescriptionOfProperty />
+            <Limit />
+            <Deductible />
+            <RefrigMaintAgreement />
+            <Options />
+            <Desc />
+            <OpenSideOnStructure />
+            <ConstructionType>Mill joist</ConstructionType>
+            <HydrantFT />
+            <FireStatMI />
+            <FireDistrict>Cornwall Suburban</FireDistrict>
+            <ProtCl />
+            <Stories>1</Stories>
+            <BASMTs>1</BASMTs>
+            <YRBuilt>1900</YRBuilt>
+            <TotalArea>250,000</TotalArea>
+            <HeatingYr>Y</HeatingYr>
+            <WiringYr1>Y</WiringYr1>
+            <WiringYr11>1995</WiringYr11>
+            <PlumbingYr1>Y</PlumbingYr1>
+            <PlumbingYr11>1995</PlumbingYr11>
+            <RoofingYr1>Y</RoofingYr1>
+            <RoofingYr11>2000</RoofingYr11>
+            <HeatingYr1>Y</HeatingYr1>
+            <HeatingYr11>2000</HeatingYr11>
+            <Other1>Y</Other1>
+            <OtherYear>2000</OtherYear>
+            <Other1 />
+            <BLDGCodeGrade />
+            <TaxCode />
+            <RoofType />
+            <OtherOccupancies>Warehouse operations</OtherOccupancies>
+            <WindClassResistive />
+            <SemiResistive />
+            <other />
+            <HeatingBoiler />
+            <InsurancePlacedElseWhere />
+            <RightExposureDistance>Free Standing</RightExposureDistance>
+            <LeftExposuredistance />
+            <FrontExposure />
+            <RearExposure />
+            <BurglarAlarmType />
+            <BurglarAlarmInstalled />
+            <Certificate />
+            <ExpirationDate />
+            <CentralStation>
+            </CentralStation>
+            <WithKeys />
+            <Extent />
+            <Grade />
+            <GuardsWatchmen />
+            <ClockHourly />
+            <None />
+            <PremisesFireProtection>Wet &amp; dry pipe sprinkler system</PremisesFireProtection>
+            <SPRNK>100</SPRNK>
+            <FireAlarmManufacturer />
+            <CentralStation2>Y</CentralStation2>
+            <LocalGong>Y</LocalGong>
+            <Rank />
+            <NameAndAddress />
+            <Reference />
+            <CertificateRquired />
+            <InterestLossPayee />
+            <InterestMortgagee />
+            <InterestAddOther />
+            <ItemDescription />
+            <Location />
+            <Building />
+            <ScheduledItemNumber />
+            <Other />
+          </AdditionalCoverages>
+        </PremisesInformation>
+        <APPremisesInformation>
+          <APPremises />
+          <APStreetAddress />
+          <APBuilding />
+          <APBuildingDesc />
+          <APPremisesInfo>
+            <APSubject />
+            <APAmount />
+            <APCoins />
+            <APValuation />
+            <APCausesOfLoss />
+            <APInflationGuard />
+            <APDed />
+            <APBLKT />
+            <APConditionsApply />
+          </APPremisesInfo>
+          <APPremisesInfo>
+            <APSubject />
+            <APAmount />
+            <APCoins />
+            <APValuation />
+            <APCausesOfLoss />
+            <APInflationGuard />
+            <APDed />
+            <APBLKT />
+            <APConditionsApply />
+          </APPremisesInfo>
+          <APPremisesInfo>
+            <APSubject />
+            <APAmount />
+            <APCoins />
+            <APValuation />
+            <APCausesOfLoss />
+            <APInflationGuard />
+            <APDed />
+            <APBLKT />
+            <APConditionsApply />
+          </APPremisesInfo>
+          <APPremisesInfo>
+            <APSubject />
+            <APAmount />
+            <APCoins />
+            <APValuation />
+            <APCausesOfLoss />
+            <APInflationGuard />
+            <APDed />
+            <APBLKT />
+            <APConditionsApply />
+          </APPremisesInfo>
+          <APPremisesInfo>
+            <APSubject />
+            <APAmount />
+            <APCoins />
+            <APValuation />
+            <APCausesOfLoss />
+            <APInflationGuard />
+            <APDed />
+            <APBLKT />
+            <APConditionsApply />
+          </APPremisesInfo>
+          <APPremisesInfo>
+            <APSubject />
+            <APAmount />
+            <APCoins />
+            <APValuation />
+            <APCausesOfLoss />
+            <APInflationGuard />
+            <APDed />
+            <APBLKT />
+            <APConditionsApply />
+          </APPremisesInfo>
+          <APBusinessExpense />
+          <APValueInformation />
+          <APAdditionalCoverages>
+            <APSpoilageCoverage />
+            <APDescriptionOfProperty />
+            <APLimit />
+            <APDeductible />
+            <APRefrigMaintAgreement />
+            <APOptions />
+            <APDesc />
+            <APOpenSideOnStructure />
+            <APConstructionType>9Simcha, Inc.</APConstructionType>
+            <APHydrantFT />
+            <APFireStatMI />
+            <APFireDistrict />
+            <APProtCl />
+            <APStories />
+            <APBASMTs />
+            <APYRBuilt />
+            <APTotalArea />
+            <APWiringYr1 />
+            <APWiringYr11 />
+            <APPlumbingYr1 />
+            <APPlumbingYr11 />
+            <APRoofingYr1 />
+            <APRoofingYr11 />
+            <APHeatingYr1 />
+            <APHeatingYr11 />
+            <APOther1 />
+            <APOther11 />
+            <APOtherYear />
+            <APBLDGCodeGrade />
+            <APTaxCode />
+            <APRoofType />
+            <APOtherOccupancies />
+            <APWindClassResistive />
+            <APWindClassSemiResistive />
+            <APAPWindClassOther />
+            <APHeatingBoiler />
+            <APInsurancePlacedElseWhere />
+            <APRightExposureDistance />
+            <APLeftExposuredistance />
+            <APFrontExposure />
+            <APRearExposure />
+            <APBurglarAlarmType />
+            <APBurglarAlarmInstalled />
+            <APCertificate />
+            <APExpirationDate />
+            <APCentralStation>
+            </APCentralStation>
+            <APWithKeys />
+            <APExtent />
+            <APGrade />
+            <APGuardsWatchmen />
+            <APClockHourly />
+            <APNone />
+            <APPremisesFireProtection />
+            <APSPRNK />
+            <APFireAlarmManufacturer />
+            <APCentralStation2 />
+            <APLocalGong />
+            <APNameAndAddress />
+            <APReference />
+            <APCertificateRquired />
+            <APInterestLossPayee />
+            <APInterestMortgate />
+            <APInterestAddOther />
+            <APItemDescription />
+            <APLocation />
+            <APBuilding />
+            <APScheduledItemNumber />
+            <APOther />
+          </APAdditionalCoverages>
+        </APPremisesInformation>
+        <Remarks>Plumbing - upgraded when new tenant move"s </Remarks>
+      </PS>
+    </InsuranceSvcRq>
+  </ACORD>
+</Acords>
